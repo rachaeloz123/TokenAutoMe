@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "35RNjbRWWdCxuZMd/q03G7RmyO7u3gxilJsSZpBkE7RUYZMh1geYpTYFO4rYtCbpVO89lV17R+qCSHKRoGv+Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rozarowski\\source\\repos\\TokenAutoMe\\TokenAutoMe\\TokenAutoMe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rozarowski\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\rozarowski\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\rozarowski\\.nuget\\packages\\opendialogwindowhandler\\0.0.0.1\\opendialogwindowhandler.0.0.0.1.nupkg.sha512",
+    "C:\\Users\\rozarowski\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\rozarowski\\.nuget\\packages\\selenium.webdriver.chromedriver\\96.0.4664.4500\\selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenDialogWindowHandler 0.0.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "OpenDialogWindowHandler",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
